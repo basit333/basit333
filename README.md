@@ -20,7 +20,7 @@
 ## 👨🏻‍💻 My Languages/Tools:
 
 <div>
-<p align="left">
+<p align="center">
 <img src="/Misc/image%20backups/homeycombs/C.svg" alt="c" width="50" height="50"/>
 <img src="/Misc/image%20backups/homeycombs/C%2B%2B.svg" alt="cplusplus" width="50" height="50"/>
 <img src="/Misc/image%20backups/homeycombs/liquid-logo-text.png" alt="liquid" width="50" height="50"/>
@@ -29,7 +29,7 @@
 <img src="/Misc/image%20backups/homeycombs/CSS3.png" alt="css3" width="50" height="50"/>
 <img src="/Misc/image%20backups/homeycombs/JavaScript.png" alt="javascript" width="50" height="50"/>
 <p>&nbsp;</p>
-<p align="left">
+<p align="center">
 
 <img src="/Misc/image%20backups/homeycombs/webflow.512x129.png" alt="webflow" width="100" height="30"/>
 <img src="/Misc/image%20backups/homeycombs/tailwind-css-icon.png" alt="tailwind" width="50" height="30"/>
@@ -46,7 +46,7 @@
 
 ## ☎️ Contact Me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-<p align="left">
+<p align="center">
 <a href = "shahbasit741@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
 <a href = "https://github.com/basit333"><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
 <a href = "https://linkedin.com/in/basit-ali-shah-197253247"
