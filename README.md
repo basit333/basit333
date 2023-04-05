@@ -55,7 +55,7 @@
 
 ## 📈 My Github Stats: <a href="https://github.com/basit333" /></a>
 
- <a href="https://github.com/harisdev-netizen"> <img src="https://komarev.com/ghpvc/?username=harisdev-netizen&label=Profile+Views&color=2e8b57&style=flat" /></a>
+ <a href="https://github.com/basit333"> <img src="https://komarev.com/ghpvc/?username=basit333&label=Profile+Views&color=2e8b57&style=flat" /></a>
 
 
 <a href="https://github.com/basit333">
