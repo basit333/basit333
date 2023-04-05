@@ -31,7 +31,7 @@
 <p>&nbsp;</p>
 <p align="left">
 
-<img src="/Misc/image%20backups/homeycombs/webflow.512x129.png" alt="webflow" width="100" height="50"/>
+<img src="/Misc/image%20backups/homeycombs/webflow.512x129.png" alt="webflow" width="100" height="30"/>
 <img src="/Misc/image%20backups/homeycombs/C%2B%2B.svg" alt="cplusplus" width="50" height="50"/>
 <img src="/Misc/image%20backups/homeycombs/liquid-logo-text.png" alt="liquid" width="50" height="50"/>
 <img src="/Misc/image%20backups/homeycombs/shopify-logo-png-6872.png" alt="shopify" width="50" height="50"/>
