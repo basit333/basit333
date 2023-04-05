@@ -36,6 +36,7 @@
 <img src="/Misc/image%20backups/homeycombs/bootstrap-5-logo-icon.png" alt="bootstrap" width="50" height="40"/>
 <img src="/Misc/image%20backups/homeycombs/icons8-adobe-xd-512.png" alt="adobe xd" width="50" height="50"/>
 <img src="/Misc/image%20backups/homeycombs/icons8-figma-512.png" alt="figma" width="50" height="50"/>
+<img src="/Misc/image%20backups/homeycombs/sass.png" alt="sass" width="50" height="50"/>
 
  
 </p>
