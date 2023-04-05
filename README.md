@@ -58,13 +58,14 @@
 
  <a href="https://github.com/basit333"> <img src="https://komarev.com/ghpvc/?username=basit333&label=Profile+Views&color=2e8b57&style=flat" /></a>
 
+<p align="center">
 <a href="https://github.com/basit333">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=basit333&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=4,C06C84,6C5B7B,355C7D" /></a>
 
 
 <a href="https://github.com/basit333">
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basit333&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,355C7D,6C5B7B,C06C84" /></a>
-
+</p>
 ---
 
 <p align="center">
