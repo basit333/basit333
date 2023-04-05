@@ -24,7 +24,7 @@
 <img src="/Misc/image%20backups/homeycombs/C.svg" alt="c" width="50" height="50"/>
 <img src="/Misc/image%20backups/homeycombs/C%2B%2B.svg" alt="cplusplus" width="50" height="50"/>
 <img src="/Misc/image%20backups/homeycombs/liquid-logo-text.png" alt="liquid" width="50" height="50"/>
-<img src="/Misc/image%20backups/homeycombs/shopify-logo-png-6872.png" alt="shopify" width="80" height="80"/>
+<img src="/Misc/image%20backups/homeycombs/shopify-logo-png-6872.png" alt="shopify" width="50" height="50"/>
 <img src="/Misc/image%20backups/homeycombs/HTML5.png" alt="html5" width="50" height="50"/>
 <img src="/Misc/image%20backups/homeycombs/CSS3.png" alt="css3" width="50" height="50"/>
 <img src="/Misc/image%20backups/homeycombs/JavaScript.png" alt="javascript" width="50" height="50"/>
