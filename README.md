@@ -32,8 +32,8 @@
 <p align="left">
 
 <img src="/Misc/image%20backups/homeycombs/webflow.512x129.png" alt="webflow" width="100" height="30"/>
-<img src="/Misc/image%20backups/homeycombs/tailwind-css-icon.png" alt="tailwind" width="100" height="30"/>
-<img src="/Misc/image%20backups/homeycombs/bootstrap-5-logo-icon.png" alt="bootstrap" width="100" height="30"/>
+<img src="/Misc/image%20backups/homeycombs/tailwind-css-icon.png" alt="tailwind" width="50" height="30"/>
+<img src="/Misc/image%20backups/homeycombs/bootstrap-5-logo-icon.png" alt="bootstrap" width="50" height="30"/>
 <img src="/Misc/image%20backups/homeycombs/shopify-logo-png-6872.png" alt="shopify" width="50" height="50"/>
 <img src="/Misc/image%20backups/homeycombs/HTML5.png" alt="html5" width="50" height="50"/>
 <img src="/Misc/image%20backups/homeycombs/CSS3.png" alt="css3" width="50" height="50"/>
