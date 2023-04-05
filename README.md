@@ -17,7 +17,7 @@
 
 <p>&nbsp;</p>
 
-## 👨🏻‍💻 My Languages/Tools:
+## 👨🏻‍💻 Languages:
 
 <div>
 <p align="center">
