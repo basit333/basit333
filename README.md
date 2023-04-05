@@ -10,10 +10,10 @@
 
 <a href="https://github.com/harisdev-netizen"><img align="right" width="350" src="https://github.com/harisdev-netizen/harisdev-netizen/blob/main/Misc/codingsvg.svg"></a>
 
-- 👨‍💻 I am [FrontEnd-Developer].
+- 👨‍💻 FrontEnd-Developer
 - 📙 I am interested in Html, CSS, JavaScript, React.js.
 - 🎯 I'm currently working as a Frontend Developer.
-- 📧 You can reach me at: <a href= "shahbasit741@@gmail.com"> Here! </a>
+- 📧 You can reach me at: <a href= "shahbasit741@gmail.com"> Here! </a>
 
 <p>&nbsp;</p>
 
